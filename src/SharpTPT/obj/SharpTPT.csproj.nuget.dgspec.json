@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\PeteRossTeal_ltha3ea\\OneDrive - NTG Masts Group\\Documents\\GitHub\\SharpTPT\\src\\SharpTPT\\SharpTPT.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\PeteRossTeal_ltha3ea\\OneDrive - NTG Masts Group\\Documents\\GitHub\\SharpTPT\\src\\SharpTPT\\SharpTPT.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\PeteRossTeal_ltha3ea\\OneDrive - NTG Masts Group\\Documents\\GitHub\\SharpTPT\\src\\SharpTPT\\SharpTPT.csproj",
+        "projectName": "SharpTPT",
+        "projectPath": "C:\\Users\\PeteRossTeal_ltha3ea\\OneDrive - NTG Masts Group\\Documents\\GitHub\\SharpTPT\\src\\SharpTPT\\SharpTPT.csproj",
+        "packagesPath": "C:\\Users\\PeteRossTeal_ltha3ea\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PeteRossTeal_ltha3ea\\OneDrive - NTG Masts Group\\Documents\\GitHub\\SharpTPT\\src\\SharpTPT\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\PeteRossTeal_ltha3ea\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "AutoCAD.NET": {
+              "target": "Package",
+              "version": "[24.0.0, )"
+            },
+            "NetOffice.Core": {
+              "target": "Package",
+              "version": "[1.7.4.4, )"
+            },
+            "jQuery": {
+              "target": "Package",
+              "version": "(, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

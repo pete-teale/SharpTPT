@@ -3,9 +3,8 @@
 // Created On: 15/June/2020
 
 using system;
-using AutoCAD.NET;
 
-static void main();
+object p = main();
 {
 proc_a(); 
     {

@@ -3,12 +3,10 @@
 // Created On: 15/June/2020
 
 using system;
-using AutoCAD.NET;
 
-static void main();
-{
-proc_a(); 
-    {
+void main()
+
+procc() {
     float length;
     float direction;
     float gradient;
@@ -16,17 +14,6 @@ proc_a();
     float startY;
     float endX;
     float endY;
-    float deltaX;
-    float deltaY;
-
-
-    }
-
-{
-
-
-}
-
 }
 
 
